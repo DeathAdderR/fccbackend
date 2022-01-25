@@ -1,6 +1,6 @@
 {
-	"author": "DeathAdderR",
 	"name": "fcc-learn-npm-package-json",
+	"author": "deathAdder,
 	"dependencies": {
 		"express": "^4.14.0"
 	},
